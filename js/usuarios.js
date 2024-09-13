@@ -1,6 +1,5 @@
 $(document).ready(function () {
     $('#tabelaUsuarios').DataTable({
-        searching: false,
         paging: false,
         processing: true,
         serverSide: false,
